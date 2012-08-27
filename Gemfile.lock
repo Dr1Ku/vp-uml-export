@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    linguistics (1.0.9)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  linguistics
